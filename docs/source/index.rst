@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+QArray: the docs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+QArrays is a tool for efficiently simulating charge stability diagrams of large quantum dot arrays. 
+The code is implemented in Rust, Python, and JAX, with a Python API. The implementations and API 
+are described in this documentation. 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
